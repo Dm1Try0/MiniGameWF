@@ -1,0 +1,17 @@
+E:\MyProjects\GmaeRacing\GmaeRacing\bin\Debug\net8.0-windows\GmaeRacing.exe
+E:\MyProjects\GmaeRacing\GmaeRacing\bin\Debug\net8.0-windows\GmaeRacing.deps.json
+E:\MyProjects\GmaeRacing\GmaeRacing\bin\Debug\net8.0-windows\GmaeRacing.runtimeconfig.json
+E:\MyProjects\GmaeRacing\GmaeRacing\bin\Debug\net8.0-windows\GmaeRacing.dll
+E:\MyProjects\GmaeRacing\GmaeRacing\bin\Debug\net8.0-windows\GmaeRacing.pdb
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.Form1.resources
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.Properties.Resources.resources
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.csproj.GenerateResource.cache
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.AssemblyInfoInputs.cache
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.AssemblyInfo.cs
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.csproj.CoreCompileInputs.cache
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.dll
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\refint\GmaeRacing.dll
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.pdb
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\GmaeRacing.genruntimeconfig.cache
+E:\MyProjects\GmaeRacing\GmaeRacing\obj\Debug\net8.0-windows\ref\GmaeRacing.dll
